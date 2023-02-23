@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobpocalypse",
+  "name": "Mobpocalypse",
+  "description": "All the mobs you didn't know you needed until now",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GDCM"],
+  "credits": "GDCM",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
